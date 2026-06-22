@@ -1,3 +1,4 @@
+#THATS MY FIRST EVER PROJECT AS BEGINNER, HOPE YOU LIKE IT
 # Live Air Writing Board
 
 A real-time Air Writing Board built with Python, OpenCV, and MediaPipe. Draw, write, and erase on a virtual canvas using hand gestures captured through a webcam, enabling a touchless and interactive drawing experience.
